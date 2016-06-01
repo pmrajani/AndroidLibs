@@ -1,4 +1,4 @@
-## MaskedEditText : https://github.com/VicMikhailau/MaskedEditText
+**MaskedEditText** : https://github.com/VicMikhailau/MaskedEditText
 
 It allows you to add a mask to EditText
 
