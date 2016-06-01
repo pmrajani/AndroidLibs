@@ -1,8 +1,7 @@
-# AndroidLibs == 列表 List
+# AndroidLibs List
 
-包含：ListView、GridView、RecyclerView、Refresh、LoadMore……
+ListView、GridView、RecyclerView、Refresh、LoadMore……
 
-[<==返回首页==](https://github.com/XXApple/AndroidLibs)
 
 ---
 
@@ -50,21 +49,9 @@ An Android Animation library which easily add itemanimator to RecyclerView items
 
 ---
 
-**EasyAdapter**: https://github.com/mzule/EasyAdapter
-
-一种简单的 Adapter 解决方案，支持多种 ViewType，轻松创建 ViewHolder 模式 Adapter. 支持 ListView 和 RecyclerView
-
----
-
-**recyclerviewhelper**: https://github.com/nisrulz/recyclerviewhelper
-
-RecyclerView 超强助手
-
----
-
 **pull-to-make-soup**: https://github.com/Yalantis/pull-to-make-soup
 
-RecyclerView 下拉刷新
+RecyclerView 
 
 <img src="https://raw.githubusercontent.com/Yalantis/PullToMakeSoup/master/PullToMakeSoupDemo/Resouces/recipe-finder.gif" width="600" />
 
@@ -90,40 +77,6 @@ Ultra Pull to Refresh for Android. Support all the views. [http://android-ultra-
 
 ---
 
-**Chris-Android-PullToRefresh**: https://github.com/bboyfeiyu/Chris-Android-PullToRefresh
-
-下拉刷新，上拉加载库
-
-<img src="https://raw.githubusercontent.com/chrisbanes/Android-PullToRefresh/master/header_graphic.png" width="480" />
-
----
-
-**RecyclerView-FastScroll**: https://github.com/timusus/RecyclerView-FastScroll
-
-A simple FastScroller for Android's RecyclerView
-
-<img src="https://github.com/timusus/RecyclerView-FastScroll/blob/master/screenshot.jpg" width="320" />
-
----
-
-**Timeline-View**: https://github.com/vipulasri/Timeline-View
-
-Android Timeline View is used to display views like Tracking of shipment/order, steppers etc
-
-<img src="https://github.com/vipulasri/Timeline-View/blob/master/Screenshot1.png" width="320" />
-
----
-
-**MultiStateView**: [https://github.com/Kennyc1012/MultiStateView](https://github.com/Kennyc1012/MultiStateView)
-
-Android View that displays different content based on its state
-
-<img src="https://github.com/Kennyc1012/MultiStateView/blob/master/art/content.png" width="160" />
-<img src="https://github.com/Kennyc1012/MultiStateView/blob/master/art/loading.png" width="160" />
-<img src="https://github.com/Kennyc1012/MultiStateView/raw/master/art/empty.png" width="160" />
-<img src="https://github.com/Kennyc1012/MultiStateView/raw/master/art/error.png" width="160" />
-
----
 
 **FlyRefresh**: [https://github.com/race604/FlyRefresh](https://github.com/race604/FlyRefresh)
 
