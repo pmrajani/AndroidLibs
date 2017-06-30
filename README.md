@@ -31,7 +31,7 @@ Best Android Library, - Prepare by Parth Rajani.
 
 Websites :
 
-- **SMART PHONE APP DEVELOPMENTS** ：  http://www.pmrajani.weebly.com/
+- **Email** : rajaniparth13@gmail.com
 - **Skype** : rajani_parth
 
 ---
